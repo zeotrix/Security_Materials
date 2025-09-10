@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Mostafa subscriptions in Medium</title>
+    </head>
+    <body>
+        <outline text="MediumTags" title="MediumTags">
+            <outline type="rss" text="Application Security on Medium" title="Application Security on Medium" xmlUrl="https://medium.com/feed/tag/application-security"/>
+        </outline>
+    </body>
+</opml>
