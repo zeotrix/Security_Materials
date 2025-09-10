@@ -182,7 +182,6 @@
             <outline type="rss" text="Harmony Security : Blog" title="Harmony Security : Blog" xmlUrl="http://www.harmonysecurity.com/blog/rss.xml" htmlUrl="http://blog.harmonysecurity.com/"/>
             <outline type="rss" text="0vercl0k's w0rld." title="0vercl0k's w0rld." xmlUrl="http://0vercl0k.tuxfamily.org/bl0g/?feed=rss2" htmlUrl="http://0vercl0k.tuxfamily.org/bl0g"/>
             <outline type="rss" text="M-unition" title="M-unition" xmlUrl="http://blog.mandiant.com/feed" htmlUrl="https://www.mandiant.com/blog"/>
-            <outline type="rss" text="hackers @ microsoft" title="hackers @ microsoft" xmlUrl="http://blogs.msdn.com/hackers/rss.xml" htmlUrl="https://docs.microsoft.com/archive/blogs/hackers/feed.xml"/>
             <outline type="rss" text="REhints" title="REhints" xmlUrl="http://rehints.com/feed.xml" htmlUrl="http://rehints.com"/>
             <outline type="rss" text="Jungsonn Security" title="Jungsonn Security" xmlUrl="http://www.jungsonnstudios.com/blog/rss.php"/>
             <outline type="rss" text="mossmann's blog" title="mossmann's blog" xmlUrl="http://ossmann.blogspot.com/feeds/posts/default" htmlUrl="http://ossmann.blogspot.com/"/>
