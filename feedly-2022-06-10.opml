@@ -123,7 +123,6 @@
             <outline type="rss" text="Network Security" title="Network Security" xmlUrl="http://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"/>
             <outline type="rss" text="iDefense Public Vulnerability Disclosures" title="iDefense Public Vulnerability Disclosures" xmlUrl="http://idefense.com/intelligence/rssfeeds.php?type=vulnerabilities"/>
             <outline type="rss" text="Sysinternals" title="Sysinternals" xmlUrl="http://www.sysinternals.com/sysinternals.xml"/>
-            <outline type="rss" text="Twitter / exploitdb" title="Twitter / exploitdb" xmlUrl="http://twitter.com/statuses/user_timeline/89527528.rss"/>
             <outline type="rss" text="WVE Recent" title="WVE Recent" xmlUrl="http://www.wve.org/entries/rss2"/>
             <outline type="rss" text="Latest Secunia Security Advisories" title="Latest Secunia Security Advisories" xmlUrl="http://secunia.com/information_partner/anonymous/o.rss"/>
             <outline type="rss" text="SecGuru - Resource for Security, Pentest, Tools, Tutorials" title="SecGuru - Resource for Security, Pentest, Tools, Tutorials" xmlUrl="http://www.secguru.com/rss2.xml" htmlUrl="http://www.secguru.com"/>
