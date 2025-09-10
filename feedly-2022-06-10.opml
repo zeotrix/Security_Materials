@@ -1074,6 +1074,5 @@
         <outline type="rss" text="ruder's blog" title="ruder's blog" xmlUrl="http://ruder.cdut.net/blogrss1.asp"/>
         <outline type="rss" text="PaulDotCom Community Blog" title="PaulDotCom Community Blog" xmlUrl="http://pauldotcommunity.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://pauldotcommunity.blogspot.com/"/>
         <outline type="rss" text="Twindows Internals" title="Twindows Internals" xmlUrl="http://www.hobeanu.com/blog/feed/" htmlUrl="http://www.hobeanu.com/blog"/>
-        <outline type="rss" text="Rocky Sand Studio News" title="Rocky Sand Studio News" xmlUrl="http://rockysandstudio.com/tag/news/feed" htmlUrl="http://www.rockysandstudio.com"/>
     </body>
 </opml>
