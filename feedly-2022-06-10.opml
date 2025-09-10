@@ -74,7 +74,6 @@
             <outline type="rss" text="Exploits" title="Exploits" xmlUrl="http://www.frsirt.com/exploits.xml"/>
             <outline type="rss" text="LeakSource" title="LeakSource" xmlUrl="http://leaksource.wordpress.com/feed/" htmlUrl="https://leaksource.wordpress.com"/>
             <outline type="rss" text="FlazX.com Latest eBooks Addition" title="FlazX.com Latest eBooks Addition" xmlUrl="http://www.flazx.com/rss/last10.xml" htmlUrl="http://www.flazx.us/book-last/10"/>
-            <outline type="rss" text="addict3d.org" title="addict3d.org" xmlUrl="http://addict3d.org/backend_security.php"/>
             <outline type="rss" text="Security-Protocols" title="Security-Protocols" xmlUrl="http://security-protocols.com/feed/atom/"/>
             <outline type="rss" text="Deloitte UK headlines" title="Deloitte UK headlines" xmlUrl="http://feeds.feedburner.com/DeloitteUK" htmlUrl="http://www.deloitte.com/rss/en_GB/uk/994b0c6b0015c110VgnVCM100000ba42f00aRCRD.rss"/>
             <outline type="rss" text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" xmlUrl="http://iscxml.sans.org/rssfeed.xml" htmlUrl="https://isc.sans.edu"/>
@@ -111,7 +110,6 @@
             <outline type="rss" text="NGSSoftware Advisories" title="NGSSoftware Advisories" xmlUrl="http://www.ngssoftware.com/feed/"/>
             <outline type="rss" text="Security Database Tools Watch" title="Security Database Tools Watch" xmlUrl="http://feeds.security-database.com/SecurityDatabaseToolsWatch" htmlUrl="https://www.security-database.com/toolswatch/"/>
             <outline type="rss" text="milw0rm.com" title="milw0rm.com" xmlUrl="http://www.milw0rm.com/rss.php"/>
-            <outline type="rss" text="WVE News" title="WVE News" xmlUrl="http://www.wve.org/news_entries/rss2" htmlUrl="http://www.wirelessve.org/"/>
             <outline type="rss" text="CERIAS Combined Feed" title="CERIAS Combined Feed" xmlUrl="http://feeds.feedburner.com/CeriasCombinedFeed" htmlUrl="https://www.cerias.purdue.edu/"/>
             <outline type="rss" text="DEFCON Announcements!" title="DEFCON Announcements!" xmlUrl="https://www.defcon.org/defconrss.xml" htmlUrl="https://www.defcon.org/"/>
             <outline type="rss" text="iDefense Labs News" title="iDefense Labs News" xmlUrl="http://labs.idefense.com/labs_rss.xml"/>
