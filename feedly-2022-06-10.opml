@@ -1066,7 +1066,6 @@
         <outline type="rss" text="Midnight Research Labs" title="Midnight Research Labs" xmlUrl="http://midnightresearch.com/feed/atom/" htmlUrl="http://midnightresearch.com"/>
         <outline type="rss" text="Windows Security Blog" title="Windows Security Blog" xmlUrl="http://windowsteamblog.com/blogs/windowssecurity/rss.aspx" htmlUrl="http://blogs.windows.com/windows/b/windowssecurity/default.aspx"/>
         <outline type="rss" text="The FAIL Blog" title="The FAIL Blog" xmlUrl="http://failblog.wordpress.com/feed/"/>
-        <outline type="rss" text="5x5 security" title="5x5 security" xmlUrl="http://5x5sec.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://5x5sec.blogspot.com/"/>
         <outline type="rss" text="SecureBlog" title="SecureBlog" xmlUrl="http://schmidt.bs-server.com/index.php/feed/atom/"/>
         <outline type="rss" text="Wi-Fi Toys" title="Wi-Fi Toys" xmlUrl="http://www.wifi-toys.com/rss.php" htmlUrl="http://www.wifi-toys.com/"/>
         <outline type="rss" text="GentleSecurity's Blog" title="GentleSecurity's Blog" xmlUrl="http://www.gentlesecurity.com/blog/index.php?tempskin=_atom" htmlUrl="http://www.gentlesecurity.com/blog/index.php"/>
