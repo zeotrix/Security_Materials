@@ -1062,17 +1062,21 @@
         <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
         <outline type="rss" text="Insane Networks" title="Insane Networks" xmlUrl="http://insanenetworks.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="Comments on: The Upcoming Black Hat Europe 2010 presentation" title="Comments on: The Upcoming Black Hat Europe 2010 presentation" xmlUrl="http://blog.fortinet.com/the-upcoming-blackhat-europe-2010-presentation/feed/"/>
+        <outline type="rss" text="6000/7" title="6000/7" xmlUrl="http://nmajidi.blogspot.com/feeds/posts/default" htmlUrl="http://nmajidi.blogspot.com/"/>
         <outline type="rss" text="Ma petite parcelle d'Internet..." title="Ma petite parcelle d'Internet..." xmlUrl="http://sid.rstack.org/blog/rss.php" htmlUrl="http://sid.rstack.org/blog/index.php/"/>
         <outline type="rss" text="Midnight Research Labs" title="Midnight Research Labs" xmlUrl="http://midnightresearch.com/feed/atom/" htmlUrl="http://midnightresearch.com"/>
         <outline type="rss" text="Windows Security Blog" title="Windows Security Blog" xmlUrl="http://windowsteamblog.com/blogs/windowssecurity/rss.aspx" htmlUrl="http://blogs.windows.com/windows/b/windowssecurity/default.aspx"/>
         <outline type="rss" text="The FAIL Blog" title="The FAIL Blog" xmlUrl="http://failblog.wordpress.com/feed/"/>
+        <outline type="rss" text="5x5 security" title="5x5 security" xmlUrl="http://5x5sec.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://5x5sec.blogspot.com/"/>
         <outline type="rss" text="SecureBlog" title="SecureBlog" xmlUrl="http://schmidt.bs-server.com/index.php/feed/atom/"/>
         <outline type="rss" text="Wi-Fi Toys" title="Wi-Fi Toys" xmlUrl="http://www.wifi-toys.com/rss.php" htmlUrl="http://www.wifi-toys.com/"/>
         <outline type="rss" text="GentleSecurity's Blog" title="GentleSecurity's Blog" xmlUrl="http://www.gentlesecurity.com/blog/index.php?tempskin=_atom" htmlUrl="http://www.gentlesecurity.com/blog/index.php"/>
         <outline type="rss" text="Agah Research Institute Blog" title="Agah Research Institute Blog" xmlUrl="http://agahresearch.blogspot.com/feeds/posts/default"/>
+        <outline type="rss" text="کيبرد آزاد" title="کيبرد آزاد" xmlUrl="http://feeds.feedburner.com/freekeyboard" htmlUrl="https://jadi.net"/>
         <outline type="rss" text="root's blog" title="root's blog" xmlUrl="http://www.be4mind.com/?q=blog/1/feed"/>
         <outline type="rss" text="ruder's blog" title="ruder's blog" xmlUrl="http://ruder.cdut.net/blogrss1.asp"/>
         <outline type="rss" text="PaulDotCom Community Blog" title="PaulDotCom Community Blog" xmlUrl="http://pauldotcommunity.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://pauldotcommunity.blogspot.com/"/>
         <outline type="rss" text="Twindows Internals" title="Twindows Internals" xmlUrl="http://www.hobeanu.com/blog/feed/" htmlUrl="http://www.hobeanu.com/blog"/>
-    </body>
+        <outline type="rss" text="Rocky Sand Studio News" title="Rocky Sand Studio News" xmlUrl="http://rockysandstudio.com/tag/news/feed" htmlUrl="http://www.rockysandstudio.com"/>
+   </body>
 </opml>
