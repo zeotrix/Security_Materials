@@ -48,5 +48,5 @@ https://risky.biz/netcasts/risky-business/
  \
 Download and import this in Feedly or any other RSS reader you prefer. It is a long list of security blogs I’ve followed over the years. Some of them are dead, some are rarely updated. But their exisiting/old posts are still worth reading
 
-https://github.com/Hamid-K/bookmarks/blob/main/feedly-a7fae7a0-3416-4bf6-86c7-27026e8b6fd0-2022-06-10.opml 
+https://github.com/zeotrix/Security_Materials/blob/main/feedly-2022-06-10.opml
 
