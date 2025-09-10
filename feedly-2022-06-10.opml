@@ -484,7 +484,6 @@
             <outline type="rss" text="ReVuln" title="ReVuln" xmlUrl="http://revuln.blogspot.com/feeds/posts/default" htmlUrl="https://revuln.blogspot.com/"/>
             <outline type="rss" text="Mulling Security" title="Mulling Security" xmlUrl="http://www.mullingsecurity.com/atom.xml"/>
             <outline type="rss" text="GreenDog's blog - Atom" title="GreenDog's blog - Atom" xmlUrl="https://agrrrdog.blogspot.com/feeds/posts/default" htmlUrl="https://agrrrdog.blogspot.com/"/>
-            <outline type="rss" text="Kasperky Lab Weblog" title="Kasperky Lab Weblog" xmlUrl="http://www.viruslist.com/en/rss/weblog" htmlUrl="https://securelist.com"/>
             <outline type="rss" text="Billy (BK) Rios" title="Billy (BK) Rios" xmlUrl="http://xs-sniper.com/blog/feed/atom/" htmlUrl="http://xs-sniper.com/blog"/>
             <outline type="rss" text="DoxPara Research -" title="DoxPara Research -" xmlUrl="http://www.doxpara.com/?q=node/feed" htmlUrl="https://dankaminsky.com"/>
             <outline type="rss" text="SourceSec Security Research" title="SourceSec Security Research" xmlUrl="http://www.sourcesec.com/feed/" htmlUrl="https://www.sourcesec.com"/>
