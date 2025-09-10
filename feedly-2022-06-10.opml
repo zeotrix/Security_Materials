@@ -455,7 +455,6 @@
             <outline type="rss" text="ERPScan" title="ERPScan" xmlUrl="http://erpscan.com/feed/" htmlUrl="https://erpscan.io"/>
             <outline type="rss" text="Vulnerabilities &amp; Exploits" title="Vulnerabilities &amp; Exploits" xmlUrl="https://forums.symantec.com/syment/rss/boardmessages?board.id=vulnerabilities_exploits"/>
             <outline type="rss" text="The Duo Bulletin » Blog" title="The Duo Bulletin » Blog" xmlUrl="http://feeds.feedburner.com/duosecurity" htmlUrl="https://duo.com/"/>
-            <outline type="rss" text="Sogeti ESEC Lab" title="Sogeti ESEC Lab" xmlUrl="http://esec-lab.sogeti.com/dotclear/index.php?feed/atom" htmlUrl="http://esec-lab.sogeti.com/"/>
             <outline type="rss" text="bk" title="bk" xmlUrl="http://blog.blacksecurity.org/bk/feeds/index.rss2"/>
             <outline type="rss" text="/dev/sec/webapp" title="/dev/sec/webapp" xmlUrl="http://blogs.owasp.org/dacort/feed/"/>
             <outline type="rss" text="alert(1)" title="alert(1)" xmlUrl="http://breenmachine.blogspot.com/feeds/posts/default" htmlUrl="http://breenmachine.blogspot.com/"/>
