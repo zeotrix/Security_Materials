@@ -1062,7 +1062,6 @@
         <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
         <outline type="rss" text="Insane Networks" title="Insane Networks" xmlUrl="http://insanenetworks.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="Comments on: The Upcoming Black Hat Europe 2010 presentation" title="Comments on: The Upcoming Black Hat Europe 2010 presentation" xmlUrl="http://blog.fortinet.com/the-upcoming-blackhat-europe-2010-presentation/feed/"/>
-        <outline type="rss" text="6000/7" title="6000/7" xmlUrl="http://nmajidi.blogspot.com/feeds/posts/default" htmlUrl="http://nmajidi.blogspot.com/"/>
         <outline type="rss" text="Ma petite parcelle d'Internet..." title="Ma petite parcelle d'Internet..." xmlUrl="http://sid.rstack.org/blog/rss.php" htmlUrl="http://sid.rstack.org/blog/index.php/"/>
         <outline type="rss" text="Midnight Research Labs" title="Midnight Research Labs" xmlUrl="http://midnightresearch.com/feed/atom/" htmlUrl="http://midnightresearch.com"/>
         <outline type="rss" text="Windows Security Blog" title="Windows Security Blog" xmlUrl="http://windowsteamblog.com/blogs/windowssecurity/rss.aspx" htmlUrl="http://blogs.windows.com/windows/b/windowssecurity/default.aspx"/>
