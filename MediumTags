@@ -5,22 +5,22 @@
     </head>
     <body>
         <outline text="MediumTags" title="MediumTags">
-            <outline type="rss" text="Application Security on Medium" title="Application Security on Medium" xmlUrl="https://medium.com/tag/application-security"/>
-            <outline type="rss" text="Hacking on Medium" title="Hacking on Medium" xmlUrl="https://medium.com/tag/hacking"/>
-            <outline type="rss" text="InfoSec on Medium" title="InfoSec on Medium" xmlUrl="https://medium.com/tag/infosec"/>
-            <outline type="rss" text="Cybersecurity on Medium" title="Cybersecurity on Medium" xmlUrl="https://medium.com/tag/cybersecurity"/>
-            <outline type="rss" text="CTF on Medium" title="CTF on Medium" xmlUrl="https://medium.com/tag/ctf"/>
-            <outline type="rss" text="Penetration Testing on Medium" title="Penetration Testing on Medium" xmlUrl="https://medium.com/tag/penetration-testing"/>
-            <outline type="rss" text="Writeup on Medium" title="Writeup on Medium" xmlUrl="https://medium.com/tag/writeup"/>
-            <outline type="rss" text="TryHackMe on Medium" title="TryHackMe on Medium" xmlUrl="https://medium.com/tag/tryhackme"/>
-            <outline type="rss" text="VulnHub on Medium" title="VulnHub on Medium" xmlUrl="https://medium.com/tag/vulnhub"/>
-            <outline type="rss" text="Security on Medium" title="Security on Medium" xmlUrl="https://medium.com/tag/security"/>
-            <outline type="rss" text="Bug Hunter on Medium" title="Bug Hunter on Medium" xmlUrl="https://medium.com/tag/bug-hunter"/>
-            <outline type="rss" text="Bug Bounty on Medium" title="Bug Bounty on Medium" xmlUrl="https://medium.com/tag/bug-bounty"/>
-            <outline type="rss" text="Info Sec Writeups on Medium" title="Info Sec Writeups on Medium" xmlUrl="https://medium.com/tag/info-sec-writeups"/>
-            <outline type="rss" text="HackTheBox Writeup on Medium" title="HackTheBox Writeup on Medium" xmlUrl="https://medium.com/tag/hackthebox-writeup"/>
-            <outline type="rss" text="Ethical Hacking on Medium" title="Ethical Hacking on Medium" xmlUrl="https://medium.com/tag/ethical-hacking"/>
-            <outline type="rss" text="API Security on Medium" title="API Security on Medium" xmlUrl="https://medium.com/tag/api-security"/>
+            <outline type="rss" text="Application Security on Medium" title="Application Security on Medium" xmlUrl="https://medium.com/feed/tag/application-security"/>
+            <outline type="rss" text="Hacking on Medium" title="Hacking on Medium" xmlUrl="https://medium.com/feed/tag/hacking"/>
+            <outline type="rss" text="InfoSec on Medium" title="InfoSec on Medium" xmlUrl="https://medium.com/feed/tag/infosec"/>
+            <outline type="rss" text="Cybersecurity on Medium" title="Cybersecurity on Medium" xmlUrl="https://medium.com/feed/tag/cybersecurity"/>
+            <outline type="rss" text="CTF on Medium" title="CTF on Medium" xmlUrl="https://medium.com/feed/tag/ctf"/>
+            <outline type="rss" text="Penetration Testing on Medium" title="Penetration Testing on Medium" xmlUrl="https://medium.com/feed/tag/penetration-testing"/>
+            <outline type="rss" text="Writeup on Medium" title="Writeup on Medium" xmlUrl="https://medium.com/feed/tag/writeup"/>
+            <outline type="rss" text="TryHackMe on Medium" title="TryHackMe on Medium" xmlUrl="https://medium.com/feed/tag/tryhackme"/>
+            <outline type="rss" text="VulnHub on Medium" title="VulnHub on Medium" xmlUrl="https://medium.com/feed/tag/vulnhub"/>
+            <outline type="rss" text="Security on Medium" title="Security on Medium" xmlUrl="https://medium.com/feed/tag/security"/>
+            <outline type="rss" text="Bug Hunter on Medium" title="Bug Hunter on Medium" xmlUrl="https://medium.com/feed/tag/bug-hunter"/>
+            <outline type="rss" text="Bug Bounty on Medium" title="Bug Bounty on Medium" xmlUrl="https://medium.com/feed/tag/bug-bounty"/>
+            <outline type="rss" text="Info Sec Writeups on Medium" title="Info Sec Writeups on Medium" xmlUrl="https://medium.com/feed/tag/info-sec-writeups"/>
+            <outline type="rss" text="HackTheBox Writeup on Medium" title="HackTheBox Writeup on Medium" xmlUrl="https://medium.com/feed/tag/hackthebox-writeup"/>
+            <outline type="rss" text="Ethical Hacking on Medium" title="Ethical Hacking on Medium" xmlUrl="https://medium.com/feed/tag/ethical-hacking"/>
+            <outline type="rss" text="API Security on Medium" title="API Security on Medium" xmlUrl="https://medium.com/feed/tag/api-security"/>
             <outline type="rss" text="DOM XSS on Medium" title="DOM XSS on Medium" xmlUrl="https://medium.com/feed/tag/dom-xss"/>
         </outline>
     </body>
