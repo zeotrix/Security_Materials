@@ -19,7 +19,5 @@
         <outline type="rss" text="Bug Bounty on Medium" title="Bug Bounty on Medium" xmlUrl="https://medium.com/feed/tag/bug-bounty"/>
         <outline type="rss" text="Info Sec Writeups on Medium" title="Info Sec Writeups on Medium" xmlUrl="https://medium.com/feed/tag/info-sec-writeups"/>
         <outline type="rss" text="HackTheBox Writeup on Medium" title="HackTheBox Writeup on Medium" xmlUrl="https://medium.com/feed/tag/hackthebox-writeup"/>
-        <outline type="rss" text="Ethical Hacking on Medium" title="Ethical Hacking on Medium" xmlUrl="https://medium.com/feed/tag/ethical-hacking"/>
-        <outline type="rss" text="API Security on Medium" title="API Security on Medium" xmlUrl="https://medium.com/feed/tag/api-security"/>
     </body>
 </opml>
