@@ -21,6 +21,5 @@
         <outline type="rss" text="HackTheBox Writeup on Medium" title="HackTheBox Writeup on Medium" xmlUrl="https://medium.com/feed/tag/hackthebox-writeup"/>
         <outline type="rss" text="Ethical Hacking on Medium" title="Ethical Hacking on Medium" xmlUrl="https://medium.com/feed/tag/ethical-hacking"/>
         <outline type="rss" text="API Security on Medium" title="API Security on Medium" xmlUrl="https://medium.com/feed/tag/api-security"/>
-        <outline type="rss" text="DOM XSS on Medium" title="DOM XSS on Medium" xmlUrl="https://medium.com/feed/tag/dom-xss"/>
     </body>
 </opml>
