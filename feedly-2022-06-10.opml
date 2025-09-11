@@ -613,9 +613,33 @@
         <outline type="rss" text="Twindows Internals" title="Twindows Internals" xmlUrl="http://www.hobeanu.com/blog/feed/" htmlUrl="http://www.hobeanu.com/blog"/>
         <outline type="rss" text="Rocky Sand Studio News" title="Rocky Sand Studio News" xmlUrl="http://rockysandstudio.com/tag/news/feed" htmlUrl="http://www.rockysandstudio.com"/>
         
-        <outline text="yasho sec blog" title="yasho sec blog">
-        
-
+        <outline text="Mostafa sec blog" title="Mostafa sec blog">
+            <outline text="0xpatrik.com" title="0xpatrik.com" type="rss" xmlUrl="https://0xpatrik.com/rss/" htmlUrl="https://0xpatrik.com/"/>
+            <outline text="appsecwiki.com" title="appsecwiki.com" type="rss" htmlUrl="https://appsecwiki.com"/>
+            <outline text="blog.appsecco.com" title="blog.appsecco.com" type="rss" xmlUrl="https://blog.appsecco.com/feed" htmlUrl="https://blog.appsecco.com/"/>
+            <outline text="buer.haus" title="buer.haus" type="rss" xmlUrl="https://buer.haus/feed/" htmlUrl="https://buer.haus"/>
+            <outline text="bugbountyforum.com" title="bugbountyforum.com" type="rss" htmlUrl="https://bugbountyforum.com/blogs/"/>
+            <outline text="bugs.xdavidhu.me" title="bugs.xdavidhu.me" type="rss" xmlUrl="https://bugs.xdavidhu.me/feed.xml" htmlUrl="https://bugs.xdavidhu.me"/>
+            <outline text="infosecwriteups.com" title="infosecwriteups.com" type="rss" xmlUrl="https://infosecwriteups.com/feed?topic=bug-bounty" htmlUrl="https://infosecwriteups.com/tagged/bug-bounty"/>
+            <outline text="int0x33.medium.com" title="int0x33.medium.com" type="rss" xmlUrl="https://int0x33.medium.com/feed/" htmlUrl="https://int0x33.medium.com/"/>
+            <outline text="klikki.fi" title="klikki.fi" type="rss" xmlUrl="https://klikki.fi/feed/" htmlUrl="https://klikki.fi/"/>
+            <outline text="labs.detectify.com" title="labs.detectify.com" type="rss" htmlUrl="https://labs.detectify.com"/>
+            <outline text="medium.com" title="medium.com" type="rss" xmlUrl="https://medium.com/@jonathanbouman/feed/" htmlUrl="https://medium.com/@jonathanbouman"/>
+            <outline text="pwning.re" title="pwning.re" type="rss" xmlUrl="https://0xacb.com/feed.xml" htmlUrl="https://0xacb.com"/>
+            <outline text="regilero.github.io" title="regilero.github.io" type="rss" xmlUrl="https://regilero.github.io/feed.xml"  htmlUrl="https://regilero.github.io/"/>
+            <outline text="robertchen.cc" title="robertchen.cc" type="rss" xmlUrl="https://regilero.github.io/feed.xml" htmlUrl="https://robertchen.cc"/>
+            <outline text="samcurry.net" title="samcurry.net" type="rss" xmlUrl="https://samcurry.net/api/feed.rss" htmlUrl="https://samcurry.net"/>
+            <outline text="seanmelia.wordpress.com" title="seanmelia.wordpress.com" type="rss" xmlUrl="https://seanmelia.wordpress.com/feed/"htmlUrl="https://seanmelia.wordpress.com/"/>
+            <outline text="tisiphone.net" title="tisiphone.net" type="rss" xmlUrl="https://tisiphone.net/feed/" htmlUrl="https://tisiphone.net/"/>
+            <outline text=" Web-Security" title="On Web-Security and -Insecurity" type="rss" xmlUrl="https://web-in-security.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://web-in-security.blogspot.com/"/>
+            <outline text="whitton.io" title="whitton.io" type="rss" xmlUrl="https://whitton.io/feed.xml" htmlUrl="https://whitton.io/"/>
+            <outline text="arneswinnen.net" title="arneswinnen.net" type="rss" xmlUrl="https://www.arneswinnen.net/feed/" htmlUrl="https://www.arneswinnen.net/"/>
+            <outline text="bugbountyhunter.com" title="bugbountyhunter.com" type="rss" htmlUrl="https://www.bugbountyhunter.com/disclosed"/>
+            <outline text="geekboy.ninja" title="geekboy.ninja" type="rss" htmlUrl="https://www.geekboy.ninja/blog"/>
+            <outline text="David Schütz" title="David Schütz" type="rss" xmlUrl="https://feed.bugs.xdavidhu.me/" htmlUrl="https://xdavidhu.me"/>
+            <outline text="ysamm.com" title="ysamm.com" type="rss" xmlUrl="https://ysamm.com/feed.xml" htmlUrl="https://ysamm.com"/>
+            <outline text="XS-Spin" title="XS-Spin" type="rss" xmlUrl="https://blog.arkark.dev/rss.xml" htmlUrl="https://blog.arkark.dev/"/>
+            <outline text="Artsploit" title="Artsploit" type="rss" htmlUrl="https://artsploit.blogspot.com/feeds/posts/default?alt=rss"/>
         </outline>
     </body>
 </opml>
