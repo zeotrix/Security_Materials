@@ -5,7 +5,7 @@
     </head>
     <body>
         
-        <outline type="rss" text="Application Security on Medium" title="Application Security on Medium" xmlUrl="https://medium.com/feed/tag/application-security"/>
+        <outline type="rss" text="Application Security on Medium" title="Application Security on Medium" xmlUrl="https://medium.com/feed/tag/application-security" htmlUrl="https://medium.com/tag/application-security"/>
 
     </body>
 </opml>
