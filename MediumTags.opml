@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <opml version="1.0">
     <head>
-        <title>Mostafa subscriptions in Medium</title>
+        <title>Updated subscriptions</title>
     </head>
     <body>
-        
-        <outline type="rss" text="Worth Doing Badly" title="Worth Doing Badly" xmlUrl="https://worthdoingbadly.com/feed.xml" htmlUrl="https://worthdoingbadly.com/"/>
+        <outline type="rss" text="Mathy Vanhoef" title="Mathy Vanhoef" xmlUrl="http://www.mathyvanhoef.com/feeds/posts/default" htmlUrl="https://www.mathyvanhoef.com/"/>
+               
     </body>
 </opml>
