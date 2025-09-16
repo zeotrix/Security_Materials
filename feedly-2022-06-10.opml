@@ -75,6 +75,7 @@
             <outline type="rss" text="SANS Information Security Reading Room" title="SANS Information Security Reading Room" xmlUrl="http://feeds.feedburner.com/SansInstituteRRLast25" htmlUrl="http://www.sans.org/reading_room/"/>
             <outline type="rss" text="Security Aegis" title="Security Aegis" xmlUrl="http://www.securityaegis.com/feed/" htmlUrl="https://AmigaUserInternational.com"/>
         </outline>
+        <!--
         <outline text="Photography" title="Photography">
             <outline type="rss" text="500px: Editors' Choice" title="500px: Editors' Choice" xmlUrl="http://feed.500px.com/500px-editors" htmlUrl="https://500px.com/editors.rss"/>
             <outline type="rss" text="Nikon Rumors" title="Nikon Rumors" xmlUrl="http://feeds2.feedburner.com/NikonRumors" htmlUrl="https://nikonrumors.com"/>
@@ -87,6 +88,7 @@
             <outline type="rss" text="TSL – Post-Processing &amp; HDR Blog" title="TSL – Post-Processing &amp; HDR Blog" xmlUrl="http://www.throughstrangelenses.com/feed/" htmlUrl="https://www.throughstrangelenses.com"/>
             <outline type="rss" text="Dpreview" title="Dpreview" xmlUrl="http://www.dpreview.com/feeds/news.xml" htmlUrl="https://www.dpreview.com/"/>
         </outline>
+        -->
         <outline text="mailing-lists" title="mailing-lists">
             <outline type="rss" text="Firewall Wizards (firewall-wizards) Mailing List" title="Firewall Wizards (firewall-wizards) Mailing List" xmlUrl="http://seclists.org/rss/firewall-wizards.rss" htmlUrl="http://seclists.org/#firewall-wizards"/>
             <outline type="rss" text="Full Disclosure (fulldisclosure) Mailing List" title="Full Disclosure (fulldisclosure) Mailing List" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="https://seclists.org/#fulldisclosure"/>
