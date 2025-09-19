@@ -601,7 +601,9 @@
             <outline text="David Schütz" title="David Schütz" type="rss" xmlUrl="https://feed.bugs.xdavidhu.me/" htmlUrl="https://xdavidhu.me"/>
             <outline text="ysamm.com" title="ysamm.com" type="rss" xmlUrl="https://ysamm.com/feed.xml" htmlUrl="https://ysamm.com"/>
             <outline text="XS-Spin" title="XS-Spin" type="rss" xmlUrl="https://blog.arkark.dev/rss.xml" htmlUrl="https://blog.arkark.dev/"/>
-            <outline text="Artsploit" title="Artsploit" type="rss" htmlUrl="https://artsploit.blogspot.com/feeds/posts/default?alt=rss"/>
+            <outline text="Artsploit" title="Artsploit" type="rss" xmlUrl="https://artsploit.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://artsploit.blogspot.com/"/>
+            <outline text="Eye on Cyber" title="Eye on Cyber (by Denis Laskov)" type="rss" xmlUrl="https://it4sec.substack.com/feed" htmlUrl="https://it4sec.substack.com/"/>
+            
         </outline>
     </body>
 </opml>
